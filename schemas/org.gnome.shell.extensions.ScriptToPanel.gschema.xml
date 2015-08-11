@@ -1,0 +1,23 @@
+<schemalist gettext-domain="gnome-shell-extensions">
+	<schema id="org.gnome.shell.extensions.ScriptToPanel"
+		path="/org/gnome/shell/extensions/ScriptToPanel/">
+
+		<key name="count" type="i">
+			<default>2</default>
+			<summary>Number of scripts</summary>
+			<description />
+		</key>
+
+		<key name="script-1" type="as">
+			<default>["1000", "date"]</default>
+			<summary>Script #1</summary>
+			<description />
+		</key>
+
+		<key name="script-2" type="as">
+			<default>["3000", "echo", "test"]</default>
+			<summary>Script #2</summary>
+			<description />
+		</key>
+	</schema>
+</schemalist>

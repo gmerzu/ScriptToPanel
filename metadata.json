@@ -1,0 +1,8 @@
+{
+	"shell-version": ["3.14.4"],
+	"uuid": "ScriptToPanel@gmerzu.gmail.com",
+	"name": "Script to panel",
+	"description": "Executes scripts and puts their output to the top panel",
+	"scripts": [{"cmd": ["date"], "timeout": 1000},
+				{"cmd": ["echo", "test"], "timeout": 3000}]
+}

@@ -1,0 +1,15 @@
+.script-output {
+    /* font-size: 90%; */
+    /* color: #ffffff; */
+    /* background-color: rgba(10,10,10,0.7); */
+}
+
+.script-outputi-full {
+}
+
+.reload-button {
+}
+
+.reload-button:hover {
+	color: red;
+}
